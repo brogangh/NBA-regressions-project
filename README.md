@@ -8,5 +8,3 @@ check this link for write up: https://docs.google.com/document/d/1-Aa4JwR4CSbjQa
 check this link for the full set of graphs generated: https://public.tableau.com/app/profile/sam.lucas7534/viz/nbaportfolioprojectgraphs/WinsVs_3PointPercentage
 
 thanks!
-
-IMPORTANT NOTE: currently a work in progress.
